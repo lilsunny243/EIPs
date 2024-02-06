@@ -4,7 +4,7 @@
   "description": "EIP-5727: Semi-Fungible Soulbound Token",
   "author": "Austin Zhu",
   "dependencies": {
-    "@openzeppelin/contracts": "4.7.3"
+    "@openzeppelin/contracts": "4.9.3"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "2.0.0",
